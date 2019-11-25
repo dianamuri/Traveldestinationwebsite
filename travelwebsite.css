@@ -68,6 +68,7 @@ h3{
 }
 #about{
     background-color: blue;
+    background-image: image(gold-glitter-background.jpg)
 }
 #home{
     background-color: red;
