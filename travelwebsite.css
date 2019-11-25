@@ -1,6 +1,9 @@
 body{
-    background-color: pink;
+    /* background-color: pink; */
+    background-image: url(giphy.gif);
+    /* background-repeat: repeat-y; */
 
+    
 }
 a{
     text-decoration: none;
@@ -24,13 +27,14 @@ li{
 
 
 .heading1{
-    /* background-color: brown; */
+    background-image: url(giphy.gif);
     position: sticky;
     top: 0%;
     margin-top: 10px;
     margin-left: none;
     text-size-adjust: 100px;
     margin-bottom: 20px;
+    padding: 10px;
 }
 
 .img_item{
@@ -44,10 +48,10 @@ li{
     margin-top: 10px;
 }
 .everythingelse{
-    /* background-color: teal; */
     margin-left: 3%;
     font-family: sans-serif;
     margin-top: 10px;
+    background-image: url(giphy.gif);
 }
 hr{
     border-style: groove;
@@ -67,15 +71,17 @@ h3{
     font-size: larger;
 }
 #about{
-    background-color: blue;
-    background-image: image(gold-glitter-background.jpg)
+    background-image: url(giphy.gif);
 }
 #home{
-    background-color: red;
+    background-image: url(giphy.gif);
+    text-align: center;
 }
 #purpose{
-    background-color: yellow;
+    background-image: url(giphy.gif);
+    
+
 }
 #contact{
-    background-color: tomato;
+    background-image: url(giphy.gif);
 }
