@@ -1,7 +1,8 @@
 body{
     /* background-color: pink; */
     background-image: url(giphy.gif);
-    /* background-repeat: repeat-y; */
+    font-family: 'Times New Roman', Times, serif;
+    color: aqua;
 
     
 }
@@ -57,7 +58,6 @@ hr{
     border-style: groove;
 }
 #contact{
-    margin-left: 40%;
     margin-bottom: 30px;
 }
 .imagesteam{
@@ -79,9 +79,11 @@ h3{
 }
 #purpose{
     background-image: url(giphy.gif);
+    text-align: center;
     
 
 }
 #contact{
     background-image: url(giphy.gif);
+    text-align: center;
 }
