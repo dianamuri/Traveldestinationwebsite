@@ -1,0 +1,80 @@
+body{
+    background-color: pink;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: fantasy;
+}
+li{
+    list-style: none;
+    padding: 95px;
+    font-size: larger;
+    font-family: monospace;
+    display: inline;
+}
+/* .topbar{
+    height:10px;
+    width:100%;
+    position:sticky; */
+    /* position: fixed; */
+
+/* } */
+
+
+.heading1{
+    /* background-color: brown; */
+    position: sticky;
+    top: 0%;
+    margin-top: 10px;
+    margin-left: none;
+    text-size-adjust: 100px;
+    margin-bottom: 20px;
+}
+
+.img_item{
+    display: inline-block;
+    padding-left: 20px;
+}
+.img_item hover{
+
+}
+.heading{
+    margin-top: 10px;
+}
+.everythingelse{
+    /* background-color: teal; */
+    margin-left: 3%;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+hr{
+    border-style: groove;
+}
+#contact{
+    margin-left: 40%;
+    margin-bottom: 30px;
+}
+.imagesteam{
+    display: inline-block;
+    shape-margin: 2px;
+    padding: 70px;
+}
+h3{
+    font-family: monospace;
+    margin-left: 40%;
+    font-size: larger;
+}
+#about{
+    background-color: blue;
+}
+#home{
+    background-color: red;
+}
+#purpose{
+    background-color: yellow;
+}
+#contact{
+    background-color: tomato;
+}
